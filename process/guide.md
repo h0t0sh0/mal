@@ -1,15 +1,10 @@
-# The Make-A-Lisp Process
+# Make-A-Lisp процесс
 
-So you want to write a Lisp interpreter? Welcome!
+Итак, вы хотите написать интерпретатор Lisp? Добро пожаловать!
 
-The goal of the Make-A-Lisp project is to make it easy to write your
-own Lisp interpreter without sacrificing those many "Aha!" moments
-that come from ascending the McCarthy mountain. When you reach the peak
-of this particular mountain, you will have an interpreter for the mal
-Lisp language that is powerful enough to be self-hosting, meaning it
-will be able to run a mal interpreter written in mal itself.
+Цель проекта Make-A-Lisp - облегчить написание собственного интерпретатора Lisp, не жертвуя многими моментами "Ага!", которые произошли от взбирания на гору Маккарти. Когда вы достигните пика этой определенной горы, у вас будет интерпретатор для языка mal Lisp, который достаточно мощный, чтобы быть самостоятельным, что означает - он будет способен запустить mal интерпретатор, написанный на самом себе.
 
-So jump right in (er ... start the climb)!
+Так что прыгаем в (эээ .. начинаем лезть)!
 
 - [Pick a language](#pick-a-language)
 - [Getting started](#getting-started)
