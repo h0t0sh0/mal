@@ -6,21 +6,21 @@
 
 Так что прыгаем в (эээ .. начинаем лезть)!
 
-- [Pick a language](#pick-a-language)
-- [Getting started](#getting-started)
-- [General hints](#general-hints)
-- [The Make-A-Lisp Process](#the-make-a-lisp-process-1)
-  - [Step 0: The REPL](#step-0-the-repl)
-  - [Step 1: Read and Print](#step-1-read-and-print)
-  - [Step 2: Eval](#step-2-eval)
+- [Выберите язык](#pick-a-language)
+- [Подготовка к работе](#getting-started)
+- [Общие советы](#general-hints)
+- [Make-A-Lisp процесс](#the-make-a-lisp-process-1)
+  - [Step 0: REPL](#step-0-the-repl)
+  - [Step 1: Читай и печатай](#step-1-read-and-print)
+  - [Step 2: Вычисления](#step-2-eval)
   - [Step 3: Environments](#step-3-environments)
   - [Step 4: If Fn Do](#step-4-if-fn-do)
   - [Step 5: Tail call optimization](#step-5-tail-call-optimization)
-  - [Step 6: Files, Mutation, and Evil](#step-6-files-mutation-and-evil)
-  - [Step 7: Quoting](#step-7-quoting)
-  - [Step 8: Macros](#step-8-macros)
+  - [Step 6: Файлы, Мутация и Зло](#step-6-files-mutation-and-evil)
+  - [Step 7: Цитирование](#step-7-quoting)
+  - [Step 8: Макросы](#step-8-macros)
   - [Step 9: Try](#step-9-try)
-  - [Step A: Metadata, Self-hosting and Interop](#step-a-metadata-self-hosting-and-interop)
+  - [Step A: Метаданные, самодостаточность и взаимодействие](#step-a-metadata-self-hosting-and-interop)
 
 
 ## Pick a language
