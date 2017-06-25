@@ -23,13 +23,9 @@
   - [Step A: Метаданные, самодостаточность и взаимодействие](#step-a-metadata-self-hosting-and-interop)
 
 
-## Pick a language
+## Выберите язык
 
-You might already have a language in mind that you want to use.
-Technically speaking, mal can be implemented in any sufficiently
-complete programming language (i.e. Turing complete), however, there are a few
-language features that can make the task MUCH easier. Here are some of
-them in rough order of importance:
+Возможно у вас уже есть язык, который хочется использовать. Говоря техническим языком - mal может быть реализован на любом, достаточно целостном языке программирования (т.н. полнота по Тьюрингу), однако, есть несколько языковых особенностей, которые могут сделать выполнение задачи НАМНОГО легче. Вот некоторые из них в порядке убывания значимости:
 
 * A sequential compound data structure (e.g. arrays, lists,
   vectors, etc)
